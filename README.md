@@ -1,6 +1,6 @@
 # Hi, I'm Juan Miguel 👋
 
-**I build AI agents and automations that run in production for real businesses.**
+**I build AI agents and automations for real businesses.**
 
 Over 2026 I designed and operated WhatsApp booking agents powered by LLMs for small businesses in Spain — a beauty salon with 200+ services and a fitness studio with ~95 regular clients — plus custom internal tools. I care about the unglamorous parts: making agents that never invent data, never double-book, and fail loudly instead of silently.
 
@@ -8,7 +8,7 @@ I'm currently studying **AI Engineering** (Python, ML, LLM applications) and mov
 
 ## 🔎 Featured work
 
-- **[AI agents case studies](https://github.com/juanmisanchezz/ai-agents-case-studies)** — architecture and engineering decisions behind three production systems, including the real bugs that shaped them.
+- **[AI agents case studies](https://github.com/juanmisanchezz/ai-agents-case-studies)** — architecture and engineering decisions behind three systems built for real clients, including the real bugs that shaped them.
 - **[AI Engineer learning log](https://github.com/juanmisanchezz/ai-engineer-learning)** — projects and exercises from my AI Engineering studies, updated as I go.
 
 ## 🛠️ Stack
