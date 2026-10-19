@@ -4,7 +4,7 @@
 
 Over 2026 I designed and operated WhatsApp booking agents powered by LLMs for small businesses in Spain — a beauty salon with 200+ services and a fitness studio with ~95 regular clients — plus custom internal tools. I care about the unglamorous parts: making agents that never invent data, never double-book, and fail loudly instead of silently.
 
-I'm currently studying **AI Engineering** (Python, ML, LLM applications) and moving to **Switzerland in November 2026**.
+I'm currently studying **AI Engineering**: so far I've built agents with LangChain and LangGraph, and traced and evaluated them with Langfuse and LangSmith.
 
 ## 🔎 Featured work
 
